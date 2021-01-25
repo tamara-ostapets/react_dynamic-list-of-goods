@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,gBAAiB,CACjB,SAAU,CAEV,sCAAyC","file":"main.68ab93b5.chunk.css","sourcesContent":[".App {\n  margin: 40px auto;\n  width: 75%;\n\n  font-family: Arial, Helvetica, sans-serif;\n}\n"]}
